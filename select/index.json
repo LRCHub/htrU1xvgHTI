@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "光",
+  "base_artist": "プッシュプルポット",
+  "createdAt": "2026-02-12T09:56:09.845547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "光",
+      "artist": "School Food Punishment",
+      "has_synced": false,
+      "path": "select/01_光_School_Food_Punishment.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spotlight (光)",
+      "artist": "VAV",
+      "has_synced": true,
+      "path": "select/02_Spotlight_(光)_VAV.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "光 - Godson Mix",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/03_光_-_Godson_Mix_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "光 -Godson Mix-",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/04_光_-Godson_Mix-_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "光 - PLANITb Remix",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_光_-_PLANITb_Remix_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "光 -PLANITb ReMix-",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/06_光_-PLANITb_ReMix-_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "光",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/07_光_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hikari (ft. UA) [光 (ft. UA)]",
+      "artist": "Mondo Grosso",
+      "has_synced": false,
+      "path": "select/08_Hikari_(ft._UA)_[光_(ft._UA)]_Mondo_Grosso.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hikari [光]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/09_Hikari_[光]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hikari [光]",
+      "artist": "School Food Punishment",
+      "has_synced": false,
+      "path": "select/10_Hikari_[光]_School_Food_Punishment.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hikari (光)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/11_Hikari_(光)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "光",
+      "artist": "earthmind",
+      "has_synced": false,
+      "path": "select/12_光_earthmind.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "光",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/13_光_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "光",
+      "artist": "Utada Hikaru",
+      "has_synced": false,
+      "path": "select/14_光_Utada_Hikaru.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "光",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/15_光_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "光 -Godson Mix-",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/16_光_-Godson_Mix-_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "光 -PLANITb ReMix-",
+      "artist": "Utada Hikaru",
+      "has_synced": false,
+      "path": "select/17_光_-PLANITb_ReMix-_Utada_Hikaru.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "光、再考",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/18_光、再考_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "光",
+      "artist": "Kobukuro",
+      "has_synced": true,
+      "path": "select/19_光_Kobukuro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光",
+      "artist": "プッシュプルポット",
+      "has_synced": false,
+      "path": "select/pl_01_光_プッシュプルポット.txt"
+    }
+  ]
+}
